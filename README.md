@@ -145,14 +145,6 @@ Allergy Warning: Contains garlic—may cause reactions in sensitive individuals.
 ![IMG-20250515-WA0002](https://github.com/user-attachments/assets/f5bed295-5ba8-44bd-b3f8-c0afa9143a54)
 ![IMG-20250515-WA0003](https://github.com/user-attachments/assets/831d0ce4-792c-4e11-b16d-70ad2079f69e)
 
-Splash Screen
-Home Screen
-Recipe Output
-
-
-
-
-
 
 
 
