@@ -6,7 +6,7 @@ import 'package:image_picker/image_picker.dart';
 class RecipeService {
   static final _model = GenerativeModel(
       model: 'gemini-1.5-flash',
-      apiKey: 'AIzaSyCZZ08VAqhohiRjIfbOeAWU2UOFpck87SY',
+      apiKey: 'YOUR_API_KEY',
   );
 
   // Method to identify ingredients from an image
