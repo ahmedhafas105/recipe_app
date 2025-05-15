@@ -40,6 +40,8 @@ ai_recipe_generator/
 │   ├── icons/             # App icon
 │   │   └── app_icon.png
 └── pubspec.yaml           # Dependencies and assets configuration
+![Project_Structure](https://github.com/user-attachments/assets/5fba6b9a-ecb7-4ea3-8443-2fb751388f0c)
+
 
 ⚙️ Setup Instructions
 Follow these steps to run the project locally:
