@@ -138,11 +138,12 @@ Allergy Warning: Contains garlic—may cause reactions in sensitive individuals.
 
 
 
-
-
 📸 Screenshots
 
-
+![IMG-20250515-WA0004](https://github.com/user-attachments/assets/28778b70-2115-421b-b5ba-d6614a3dee21)
+![IMG-20250515-WA0001](https://github.com/user-attachments/assets/b71034fb-9c52-4356-94d3-68c63d3a0c8a)
+![IMG-20250515-WA0002](https://github.com/user-attachments/assets/f5bed295-5ba8-44bd-b3f8-c0afa9143a54)
+![IMG-20250515-WA0003](https://github.com/user-attachments/assets/831d0ce4-792c-4e11-b16d-70ad2079f69e)
 
 Splash Screen
 Home Screen
